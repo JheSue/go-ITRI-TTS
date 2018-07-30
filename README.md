@@ -10,7 +10,8 @@ env:
 
 build:
 
-        go build .
+	go build .
+
 run:
 
 	./soap-client <ACCOUNT> <PASSWPRD> <TEXT>
